@@ -1,0 +1,11 @@
+mod = [
+	"TAS"
+]
+
+package = [
+	"resource_packages/TAS/TAS"
+]
+
+lua = [
+	"scripts/mods/TAS/*"
+]
